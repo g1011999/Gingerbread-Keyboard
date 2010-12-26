@@ -1,0 +1,6 @@
+.*
+!.gitignore
+bin/
+gen/
+obj/
+libs/
