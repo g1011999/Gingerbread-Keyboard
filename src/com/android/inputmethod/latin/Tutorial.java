@@ -34,7 +34,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.moo.android.inputmethod.latin.R;
+import com.moo.android.inputmethod.latin.free.R;
 
 public class Tutorial implements OnTouchListener {
     

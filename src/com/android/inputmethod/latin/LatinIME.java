@@ -20,7 +20,7 @@ import com.android.inputmethod.latin.LatinIMEUtil.RingCharBuffer;
 import com.android.inputmethod.voice.FieldContext;
 import com.android.inputmethod.voice.SettingsUtil;
 import com.android.inputmethod.voice.VoiceInput;
-import com.moo.android.inputmethod.latin.R;
+import com.moo.android.inputmethod.latin.free.R;
 
 import org.xmlpull.v1.XmlPullParserException;
 

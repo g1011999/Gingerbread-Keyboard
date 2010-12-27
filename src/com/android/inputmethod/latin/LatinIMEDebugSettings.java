@@ -16,7 +16,7 @@
 
 package com.android.inputmethod.latin;
 
-import com.moo.android.inputmethod.latin.R;
+import com.moo.android.inputmethod.latin.free.R;
 
 import android.content.SharedPreferences;
 import android.content.pm.PackageInfo;

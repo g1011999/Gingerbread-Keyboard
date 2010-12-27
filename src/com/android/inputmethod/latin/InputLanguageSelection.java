@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Locale;
 
-import com.moo.android.inputmethod.latin.R;
+import com.moo.android.inputmethod.latin.free.R;
 
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;

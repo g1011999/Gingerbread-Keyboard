@@ -18,7 +18,7 @@ package com.android.inputmethod.latin;
 
 import com.android.inputmethod.latin.LatinKeyboardBaseView.OnKeyboardActionListener;
 import com.android.inputmethod.latin.LatinKeyboardBaseView.UIHandler;
-import com.moo.android.inputmethod.latin.R;
+import com.moo.android.inputmethod.latin.free.R;
 
 import android.content.res.Resources;
 import android.inputmethodservice.Keyboard;

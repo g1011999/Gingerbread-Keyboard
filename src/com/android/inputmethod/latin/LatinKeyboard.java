@@ -39,7 +39,7 @@ import android.view.inputmethod.EditorInfo;
 import java.util.List;
 import java.util.Locale;
 
-import com.moo.android.inputmethod.latin.R;
+import com.moo.android.inputmethod.latin.free.R;
 
 public class LatinKeyboard extends Keyboard {
 

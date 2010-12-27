@@ -17,7 +17,7 @@
 package com.android.inputmethod.latin;
 
 import com.android.inputmethod.voice.SettingsUtil;
-import com.moo.android.inputmethod.latin.R;
+import com.moo.android.inputmethod.latin.free.R;
 
 import android.content.ContentResolver;
 import android.content.Context;

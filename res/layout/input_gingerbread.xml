@@ -20,7 +20,7 @@
 
 <com.android.inputmethod.latin.LatinKeyboardView
         xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:latin="http://schemas.android.com/apk/res/com.moo.android.inputmethod.latin"
+        xmlns:latin="http://schemas.android.com/apk/res/com.moo.android.inputmethod.latin.free"
         android:id="@+id/LatinkeyboardBaseView"
         android:layout_alignParentBottom="true"
         android:layout_width="fill_parent"
