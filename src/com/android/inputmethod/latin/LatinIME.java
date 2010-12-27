@@ -411,7 +411,8 @@ public class LatinIME extends InputMethodService
                     if (tag != null) {
                         if (tag.equals("part")) {
                             String dictFileName = xrp.getAttributeValue(null, "name");
-                            dictionaries.add(res.getIdentifier(dictFileName, "raw", packageName));
+                            //dictionaries.add(res.getIdentifier(dictFileName, "raw", packageName));
+                            dictionaries.add(res.getIdentifier(dictFileName, "raw", "com.moo.android.inputmethod.latin.free"));
                         }
                     }
                 }
