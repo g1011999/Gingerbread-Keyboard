@@ -133,7 +133,8 @@ public class Suggest implements Dictionary.WordCallback {
     }
 
     public boolean hasMainDictionary() {
-        return mMainDict.getSize() > LARGE_DICTIONARY_THRESHOLD;
+        //return mMainDict.getSize() > LARGE_DICTIONARY_THRESHOLD;
+    	return true;
     }
 
     public int getApproxMaxWordLength() {
