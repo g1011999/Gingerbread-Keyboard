@@ -11,6 +11,6 @@ LOCAL_SRC_FILES := \
 LOCAL_NDK_VERSION := 4
 LOCAL_SDK_VERSION := 8
 
-LOCAL_MODULE := libjni_latinime
+LOCAL_MODULE := libjni_latinime_moo
 
 include $(BUILD_SHARED_LIBRARY)
