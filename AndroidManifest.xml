@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-		android:versionName="1.0.1"
-    	android:versionCode="2" package="com.moo.android.inputmethod.latin.free">
+		android:versionName="1.0.2"
+    	android:versionCode="3" package="com.moo.android.inputmethod.latin.free">
         
 	<uses-sdk android:minSdkVersion="8"/>  
         
@@ -13,7 +13,7 @@
     <uses-permission android:name="android.permission.READ_CONTACTS" />
 
     <application android:label="@string/english_ime_name"
-            android:backupAgent="LatinIMEBackupAgent"
+            android:backupAgent="com.android.inputmethod.latin.LatinIMEBackupAgent"
             android:icon="@drawable/ic_application"
             android:killAfterRestore="false">
 
