@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-		android:versionName="1.0.4"
-    	android:versionCode="5" 
+		android:versionName="1.0.5"
+    	android:versionCode="6" 
     	package="com.moo.android.inputmethod.latin.free">
         
 	<uses-sdk android:minSdkVersion="8"/>  
