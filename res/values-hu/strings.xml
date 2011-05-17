@@ -94,11 +94,6 @@
     <!-- Option to show/hide the settings key -->
     <string name="prefs_settings_key">Beállítógomb megjelenítése</string>
     <!-- Array of the settings key mode values -->
-    <string-array name="settings_key_modes_values" translatable="false">
-        <item>@string/settings_key_mode_auto</item>
-        <item>@string/settings_key_mode_always_show</item>
-        <item>@string/settings_key_mode_always_hide</item>
-    </string-array>
     <!-- Option to automatically decide to show/hide the settings key -->
     <string name="settings_key_mode_auto_name">Automatikus</string>
     <!-- Option to always show the settings key -->
@@ -124,18 +119,6 @@
         <item>Advanced</item>
     </string-array>
     
-    <!-- Don't translate -->
-    <string name="prediction_none" translatable="false">0</string>
-    <!-- Don't translate -->
-    <string name="prediction_basic" translatable="false">1</string>
-    <!-- Don't translate -->
-    <string name="prediction_full"  translatable="false">2</string>
-
-    <string-array name="prediction_modes_values" translatable="false">
-        <item>@string/prediction_none</item>
-        <item>@string/prediction_basic</item>
-        <item>@string/prediction_full</item>
-    </string-array>
 
     <!-- Indicates that a word has been added to the dictionary -->
     <string name="added_word">„<xliff:g id="word">%s</xliff:g>” mentve</string>
@@ -272,18 +255,6 @@
         <item>Nincs</item>
     </string-array>
 
-    <!-- Don't translate -->
-    <string name="voice_mode_main" translatable="false">0</string>
-    <!-- Don't translate -->
-    <string name="voice_mode_symbols" translatable="false">1</string>
-    <!-- Don't translate -->
-    <string name="voice_mode_off"  translatable="false">2</string>
-
-    <string-array name="voice_input_modes_values" translatable="false">
-        <item>@string/voice_mode_main</item>
-        <item>@string/voice_mode_symbols</item>
-        <item>@string/voice_mode_off</item>
-    </string-array>
 
     <!-- Array of Voice Input modes summary -->
     <string-array name="voice_input_modes_summary">
@@ -347,32 +318,7 @@
 
     <!-- Description for keyboard theme switcher -->
     <string name="keyboard_layout">Billentyűzet kinézete</string>
-    <string name="layout_basic" translatable="false">Alap</string>
-    <string name="layout_high_contrast" translatable="false">Alap (Nagy kontraszt)</string>
-    <string name="layout_stone_bold"  translatable="false">Kő (kövér)</string>
-    <string name="layout_stone_normal"  translatable="false">Kő (normál)</string>
-    <string name="layout_gingerbread"  translatable="false">Gingerbread</string>
-
-    <string-array name="keyboard_layout_modes" translatable="false">
-        <item>@string/layout_basic</item>
-        <item>@string/layout_high_contrast</item>
-        <item>@string/layout_stone_normal</item>
-        <item>@string/layout_stone_bold</item>
-        <item>@string/layout_gingerbread</item>
-    </string-array>
-
-    <string-array name="keyboard_layout_modes_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
-
     <string name="subtype_mode_keyboard">billentyűzet</string>
     <string name="subtype_mode_voice">beszéd</string>
 
-    <!-- Title for Latin keyboard debug settings activity / dialog -->
-    <string name="english_ime_debug_settings" translatable="false">Android keyboard Debug settings</string>
-    <string name="prefs_debug_mode" translatable="false">Debug Mode</string>
 </resources>
